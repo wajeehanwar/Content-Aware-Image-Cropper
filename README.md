@@ -28,7 +28,7 @@ Below left is the original 298\*298 pixel image; below right is the result after
 ## View
 
 <div><h4>Original</h4>
-<a href="https://raw.githubusercontent.com/wajeehanwar/Content-Aware-Image-Cropper"><img src="https://raw.githubusercontent.com/wajeehanwar/Content-Aware-Image-Cropper/master/images/chameleon.png" alt="Original Image" width="500"></a>
+<a href="https://raw.githubusercontent.com/wajeehanwar/Content-Aware-Image-Cropper"><img src="https://raw.githubusercontent.com/wajeehanwar/Content-Aware-Image-Cropper/master/images/chameleon.png" alt="Original Image" width="550"></a>
 
 <h4>Content-Aware Crop</h4><a href="https://raw.githubusercontent.com/wajeehanwar/Content-Aware-Image-Cropper"><img src="https://raw.githubusercontent.com/wajeehanwar/Content-Aware-Image-Cropper/master/images/chameleon_resized.png" alt="Content-Aware Cropped Image" width="500"></a>
 </span>
